@@ -1,0 +1,87 @@
+[
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\FPSGame.Build.cs",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\FPSGame.cpp",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\FPSGame.h",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSBlackHole.cpp",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSCharacter.cpp",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSExtractionZone.cpp",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSGameMode.cpp",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSHUD.cpp",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSObjectiveActor.cpp",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSProjectile.cpp",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSBlackHole.h",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSCharacter.h",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSExtractionZone.h",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSGameMode.h",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSHUD.h",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSObjectiveActor.h",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UnrealEngine\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSProjectile.h",
+		"command": "cl.exe @\"D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default\\FPSGame.174.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

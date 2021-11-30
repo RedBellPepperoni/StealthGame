@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "FPSGameEditor Editor Win64 Development (FPSGame)",
+            "intelliSenseMode": "windows-clang-x64",
+            "compileCommands": "D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_FPSGame.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "${default}",
+            "compileCommands": "D:\\UnrealEngine\\StealthGame\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "includePath": [
+                "${default}",
+                "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Core/Public",
+                "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/*",
+                "${workspaceFolder}/Intermediate/Build/Win64/UE4Editor/Inc/FPSGame",
+                "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/CoreUObject/Public"
+            ]
+        }
+    ],
+    "version": 4
+}
