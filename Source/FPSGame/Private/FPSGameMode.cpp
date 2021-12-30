@@ -5,6 +5,8 @@
 #include "FPSCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 #include "Kismet/GameplayStatics.h"
+#include "FPSGameState.h"
+
 
 AFPSGameMode::AFPSGameMode()
 {
@@ -14,13 +16,15 @@ AFPSGameMode::AFPSGameMode()
 
 	// use our custom HUD class
 	HUDClass = AFPSHUD::StaticClass();
+
+	GameStateClass = AFPSGameState::StaticClass();
 }
 
 void AFPSGameMode::CompleteMission(APawn* InstigatorPawn, bool bMissionSuccess)
 {
 	if(InstigatorPawn)
 	{
-		InstigatorPawn->DisableInput(nullptr);
+		//InstigatorPawn->DisableInput(nullptr);
 	
 
 		if(SpectatingViewpointClass)
@@ -48,7 +52,12 @@ void AFPSGameMode::CompleteMission(APawn* InstigatorPawn, bool bMissionSuccess)
 		}
 	}
 
+	AFPSGameState* GS = GetGameState<AFPSGameState>();
 
+	if(GS)
+	{
+		GS->MulticastOnMissionComplete(InstigatorPawn, bMissionSuccess );
+	}
 	
 	OnMissionCompleted(InstigatorPawn, bMissionSuccess);
 
